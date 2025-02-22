@@ -13,5 +13,9 @@ GAME_FPS=60
 TABLE_BASE_POS=(0,0)
 
 # images
+TABLE="assets/bg/table.png"
 
-TABLE="assets/bg/table.jpg"
+
+#vydeo files
+# Define the folder where all videos are stored
+VYDEO_FOLDER= "assets/vydeo_files" 
